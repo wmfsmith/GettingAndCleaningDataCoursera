@@ -39,6 +39,8 @@ Organized exactly as `test.`
 
 ### Script
 
+#### Important variables
+
 #### Lines 1 - 31 read in the data.
 
 Read first the top level activity and feature info, then the test and train data sets.
